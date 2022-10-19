@@ -15,7 +15,7 @@ These are my projects...
 <iframe src="./sketch/" width="400" height="300"></iframe>
 
 ## Projects:
-    "Come quietly or there will be... trouble."
+    Come quietly or there will be... trouble.
 
 Sketch 2
 
