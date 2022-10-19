@@ -2,7 +2,7 @@ var x;
 var y;
 
 function setup() {
-    createCanvas(800, 400);
+    createCanvas(windowWidth, windowHeight);
     x = width / 2
     y = height / 2;
     rectMode(CENTER);
