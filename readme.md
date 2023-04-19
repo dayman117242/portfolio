@@ -18,7 +18,7 @@ Come quietly or there will be... trouble.
 
 Trees of autumn leaves changing color, made just in time for October. -->
 
-<iframe src="./TRIAD EPISODE 2.html/" width="1000" height="1000"></iframe>
+<iframe src="./TRIAD%20EPISODE%202.html/" width="1000" height="1000"></iframe>
 
 # [X-MasTerrestrials](./sketch3/)
 
