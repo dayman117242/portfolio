@@ -30,7 +30,7 @@ I integrated ChatGPT into a text generation program with a green font and black 
 
 # [Deus Ex Machina](https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="640" height="480" allow="fullscreen; autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen; autoplay"></iframe>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9VA3N7BzwH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
