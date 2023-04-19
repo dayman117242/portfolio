@@ -26,7 +26,7 @@ I developed this as my final creative project just in time for December. Origina
 
 # [Word & Sorcery]()
 
-Used ChatGPT to modify template into one with text box input and interactive button that prints basic input-response format. Changed new template by removing redundant text, adding black background and green text with symbol indicating user input to emulate classic text adventure games. Made subsequent text responses appear consecutively below previous one to give sense of game progression. 
+I integrated ChatGPT into a text generation program with a green font and black background to emulate classic text adventure games. You can make subsequent text responses appear consecutively below previous ones to experience a fun (and somewhat chaotic) sensation of game progression.
 
 # [Deus Ex Machina](https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/view?usp=sharing)
 
