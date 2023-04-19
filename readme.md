@@ -6,6 +6,8 @@ This page is a gallery of the various creative projects I have produced during m
 
 ---
 
+# [EPOCH](https://drive.google.com/file/d/1tvPW7bVoRDxmH6PZAJ9Z2mQAksykr2mB/view?usp=sharing)
+
 <object data="./epoch.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 # [GUNS OF LIBERTY: The Hunt for El Cazador](https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador)
