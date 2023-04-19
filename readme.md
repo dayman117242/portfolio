@@ -6,7 +6,11 @@ This page is a gallery of the various creative projects I have produced during m
 
 ---
 
+# [GUNS OF LIBERTY: The Hunt for El Cazador](https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador)
+
 <iframe frameborder="0" src="https://itch.io/embed-upload/7735358?color=2e5955" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador">Play GUNS OF LIBERTY: The Hunt for El Cazador on itch.io</a></iframe>
+
+A minimalist pixelated adventure game/interactive fiction. The monochromatic green palette evokes the military and jungle setting characteristic of its eighties action movie inspirations while also emulating the contemporaneous Game Boy’s graphics, viscerally capturing the retro verisimilitude of a much explored era. Largely referencing the iconic Arnold Schwarzenegger flick Predator, the game allows players to find mission logs in the form of interactive objects, encouraging exploration throughout the environment as a tribute to the classic adventure genre.
 
 <!-- # [Targeting System](./sketch/)
 
@@ -19,8 +23,6 @@ Come quietly or there will be... trouble.
 <iframe src="./sketch2/" width="1000" height="1000"></iframe>
 
 Trees of autumn leaves changing color, made just in time for October. -->
-
-<iframe src="./bitsy/" width="1000" height="1000"></iframe>
 
 # [X-MasTerrestrials](./sketch3/)
 
@@ -36,8 +38,6 @@ I integrated ChatGPT into a text generation program with a green font and black 
 # [Deus Ex Machina](https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen; autoplay"></iframe>
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9VA3N7BzwH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
 
