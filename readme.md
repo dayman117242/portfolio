@@ -26,7 +26,13 @@ I developed this as my final creative project just in time for December. Origina
 
 # [Deus Ex Machina](https://photos.app.goo.gl/uWsJVU6epKzRo9KA7/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9VA3N7BzwH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="width:100%;height:480px;background-color:black;text-align:center;">
+  <video style="height:100%;" controls>
+    <source src="https://lh3.googleusercontent.com/pw/AJFCJaX32uBfoeRxChPWl-83B_eOkHu-qxDVXiIfSYGxod753YPL97eZ7yKv00l1naCNDjYU8i5QOmM7f94EMzgungpQ3r8k9a1Un4axonSYWNWBn6G9IDo=m37" type="video/mp4">
+  </video>
+</div>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9VA3N7BzwH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <!-- <iframe src="https://photos.app.goo.gl/uWsJVU6epKzRo9KA7" width="1280" height="720"></iframe> -->
 
