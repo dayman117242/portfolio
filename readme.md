@@ -18,6 +18,8 @@ Come quietly or there will be... trouble.
 
 Trees of autumn leaves changing color, made just in time for October. -->
 
+<iframe src="./TRIAD EPISODE 2.html/" width="1000" height="1000"></iframe>
+
 # [X-MasTerrestrials](./sketch3/)
 
 <iframe src="./sketch3/" width="1920" height="1106"></iframe>
@@ -34,8 +36,6 @@ I integrated ChatGPT into a text generation program with a green font and black 
 <iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen; autoplay"></iframe>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9VA3N7BzwH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
-<!-- <iframe src="https://photos.app.goo.gl/uWsJVU6epKzRo9KA7" width="1280" height="720"></iframe> -->
 
 In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
 
