@@ -12,7 +12,7 @@ This page is a gallery of the various creative projects I have produced during m
 
 # [TRIAD](https://dayman117242.itch.io/triad)
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/7740698?color=333333" allowfullscreen="" width="1000" height="1000" scrolling="yes"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a><div id="addcontent" style='width:1000;overflow-y:scroll;overflow-x:hidden;height:1000;position:relative;top:0;left:0;'></div></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/7740698?color=333333" allowfullscreen="" width="1000" height="1000" style="overflow-y:scroll !important; overflow-x:hidden !important; overflow:hidden;height:100%;width:100%;" scrolling="yes"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe>
 
 # [GUNS OF LIBERTY: The Hunt for El Cazador](https://itch.io/embed-upload/7735358?color=2e5955)
 
