@@ -2,7 +2,7 @@
 
 ## What's This?
 
-This page is a gallery of the various creative projects I have produced during my time in the Digital Media master's program at UCF. Drawing inspiration from my love for retro culture, my work comments on and subverts nostalgia, seeking ways to consolidate past aesthetics and technologies with newer ones today.
+This page is a gallery of the various creative projects I have produced during my time in the Digital Media master's program at University of Central Florida. Drawing inspiration from my love for retro culture, my work comments on and subverts nostalgia, seeking ways to consolidate past aesthetics and technologies with newer ones today.
 
 ---
 
@@ -10,11 +10,11 @@ This page is a gallery of the various creative projects I have produced during m
 
 <object data="./epoch.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<!-- # [TRIAD](https://dayman117242.itch.io/triad)
+# [TRIAD](https://dayman117242.itch.io/triad)
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/7736669?color=333333" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe> -->
+<iframe frameborder="0" src="https://itch.io/embed-upload/7740698?color=333333" allowfullscreen="" width="1000" height="1000" scrolling="yes"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe>
 
-# [GUNS OF LIBERTY: The Hunt for El Cazador](https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador)
+# [GUNS OF LIBERTY: The Hunt for El Cazador](https://itch.io/embed-upload/7735358?color=2e5955)
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/7735358?color=2e5955" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador">Play GUNS OF LIBERTY: The Hunt for El Cazador on itch.io</a></iframe>
 
