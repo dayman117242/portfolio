@@ -41,13 +41,13 @@ I developed this as my final creative project just in time for December. Origina
 
 # [Words & Sorcery](https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/preview" width="1000" height="562.5" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 
 I integrated ChatGPT into a text generation program with a green font and black background to emulate classic text adventure games. You can make subsequent text responses appear consecutively below previous ones to experience a fun (and somewhat chaotic) sensation of game progression.
 
 # [Deus Ex Machina](https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen; autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 
 In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
 
