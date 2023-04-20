@@ -10,11 +10,9 @@ This page is a gallery of the various creative projects I have produced during m
 
 <object data="./epoch.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-# [TRIAD](https://dayman117242.itch.io/triad)
+# [TRIAD](https://v6p9d9t4.ssl.hwcdn.net/html/7740698/index.html)
 
-<iframe frameborder="0" src="https://itch.io/embed/2025832" width="552" height="167"><a href="https://dayman117242.itch.io/triad">TRIAD by dayman117242</a></iframe>
-
-<!-- <iframe frameborder="0" src="https://itch.io/embed-upload/7740698?color=333333" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe> -->
+<!-- <iframe frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/7740698/index.html" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe> -->
 
 # [GUNS OF LIBERTY: The Hunt for El Cazador](https://itch.io/embed-upload/7735358?color=2e5955)
 
