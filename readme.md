@@ -39,7 +39,9 @@ Trees of autumn leaves changing color, made just in time for October. -->
 
 I developed this as my final creative project just in time for December. Originally intended as an alien space shooter, the game began to take on a more festive theme of protecting castaway gifts scattered around Planet CupCage by shooting down the titular X-MasTerrestrials, evil aliens seeking to steal Christmas. The game uses basic mouse-click mechanics to simulate shooting and hitting UFOs, simply point and click on the invaders and the occasional mothership to win points and save Christmas. The game is a survival shooter, meaning you will have to brave waves of thieving aliens for a certain duration of time before progressing to the next level. Each level will get increasingly challenging as the aliens get faster and more motherships come in to swipe a wider array of presents. Lose too many presents and the game is over, Christmas is canceled, so be on your toes with this one and keep your trigger finger ready. If you want to play again just reload the page. Have fun!
 
-# [Word & Sorcery]()
+# [Words & Sorcery](https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/preview" width="1000" height="562.5" allow="autoplay"></iframe>
 
 I integrated ChatGPT into a text generation program with a green font and black background to emulate classic text adventure games. You can make subsequent text responses appear consecutively below previous ones to experience a fun (and somewhat chaotic) sensation of game progression.
 
