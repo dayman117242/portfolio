@@ -6,7 +6,7 @@ This page is a documentation of the various creative projects I have produced du
 
 ---
 
-# [EPOCH](https://drive.google.com/file/d/1tvPW7bVoRDxmH6PZAJ9Z2mQAksykr2mB/view?usp=sharing)
+<!-- # [EPOCH](https://drive.google.com/file/d/1tvPW7bVoRDxmH6PZAJ9Z2mQAksykr2mB/view?usp=sharing)
 
 <object data="./epoch.pdf" width="1000" height="1000" type='application/pdf'></object>
 
@@ -59,4 +59,4 @@ With the integration of AI in the project’s visual generation component, my vi
 
 The relationship between the two parallels Dr. Victor Frankenstein and his creation, albeit in a more ambivalent, civil, yet still unnerving sense. I’s potential to overpower his creator also intentionally evokes Lucifer, and his sheer sophistication brings to question who truly embodies God in this scenario. I’s characterization drew inspiration from HAL 9000 in 2001: A Space Odyssey and the impeccable Michael Fassbender’s deliciously menacing turn as the esoteric android David in the Alien prequels. Neo’s confrontation with The Architect at the TV room in The Matrix Reloaded also influenced I’s depiction as a giant screen along with the philosophically dense conversation he and his maker share.
 
-Through this dizzying but eclectic mix of sci-fi pastiches and ideas, my project became uniquely reflexive, employing AI as a medium to narratively explore the heavy long-term implications of the technology on our future society. I’m very grateful for the distinct opportunity to finally realize long-gestating concepts from my imagination while also paying homage to beloved sci-fi works that have fueled my creativity throughout the years.
+Through this dizzying but eclectic mix of sci-fi pastiches and ideas, my project became uniquely reflexive, employing AI as a medium to narratively explore the heavy long-term implications of the technology on our future society. I’m very grateful for the distinct opportunity to finally realize long-gestating concepts from my imagination while also paying homage to beloved sci-fi works that have fueled my creativity throughout the years. -->
