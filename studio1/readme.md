@@ -16,13 +16,13 @@ The project is intended as a continuation and another narrative component of my 
 
 # Concept Art
 
+![Cerebrus concept art](./Cerebrus.jpeg)
 
+![Bitsy render](./Concept.png)
 
 # [GB Studio](https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view)
 
-<iframe src="https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view" width="1000" height="562.5" allow="fullscreen"></iframe>
-
-
+<iframe src="https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 
 # [bitr](https://bit-r.weebly.com/)
 
