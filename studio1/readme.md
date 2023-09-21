@@ -2,7 +2,7 @@
 
 ## What's This?
 
-!(/Game Day.jpg)
+![Game Day logo](./Game%20Day.jpg)
 
 This page is a documentation of my Studio 1 project in the Digital Media master's program at University of Central Florida.
 
