@@ -1,7 +1,6 @@
 ## What's This?
 
 ![Game Day logo](./Game%20Day.jpg)
-
 This page is a documentation of my Studio 1 project in the Digital Media master's program at University of Central Florida.
 
 ---
@@ -18,6 +17,7 @@ The project is intended as a continuation and another narrative component of my 
 I have drawn out some concept art for my player character and his potential forms in his evolution as he gains power over the course of the narrative. 
 
 ![Bitsy render](./Concept.png)
+
 I also made a visualization through Bitsy of the game's potential starting point, a research lab where Cerebrus will awaken and break free from captivity. 
 
 # [GB Studio](https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view)
