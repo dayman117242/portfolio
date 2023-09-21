@@ -1,22 +1,36 @@
-# [Studio]
+# [Portfolio](https://dayman117242.github.io/portfolio/)
 
 ## What's This?
 
-This page is a documentation of the various creative projects I have produced during my time in the Digital Media master's program at University of Central Florida. Drawing inspiration from my love for retro culture, my work comments on and subverts nostalgia, seeking ways to consolidate past aesthetics and technologies with newer ones today.
+!(/Game Day.jpg)
+
+This page is a documentation of my Studio 1 project in the Digital Media master's program at University of Central Florida.
 
 ---
 
-<!-- # [EPOCH](https://drive.google.com/file/d/1tvPW7bVoRDxmH6PZAJ9Z2mQAksykr2mB/view?usp=sharing)
+# [Interverse](https://drive.google.com/file/d/1YnNcxIfKU50CxqdNZ5-U0C_sa13jA0g2/view)
 
 <object data="./epoch.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-One of my very first projects in the program tasked me with creating a comic that reflected my life in some way. I decided to take a very loose, unconventional approach by metaphorically representing my high school years to now as a superhero narrative, with my protagonist's many demises and rebirths reflecting my own struggles and victories. The artistic process proved immensely cathartic, especially after coming out of quarantine in 2021, as I simultaneously rehabilitated my creative skills and meditatively reflected upon my growth during the pandemic. Spanning across eons in the story, the comic took inspiration from an eclectic range of sources, including the Turok games, the movies Highlander and Aquaman, spaghetti Westerns, Japanese animation, Saturday morning cartoons, and of course, graphic novels.
+The project is intended as a continuation and another narrative component of my ambitious proposed franchise Interverse, an homage to my love for retro culture and superhero fiction. A companion piece to my Twine game in Theory & Practice of Interactive Storytelling, the project will encompass Game Boy software that places players in the role of franchise villain Cerebrus, who was previously teased in the Twine game as the protagonist's archnemesis. The game will revisit areas and events previously depicted in the Twine game from a fresh new perspective through the villain's eyes and the unique pixelated medium of Game Boy.
+
+# Concept Art
+
+
+
+# [GB Studio](https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view)
+
+<iframe src="https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view" width="1000" height="562.5" allow="fullscreen"></iframe>
+
+
 
 # [bitr](https://bit-r.weebly.com/)
 
 <iframe src="https://bit-r.weebly.com/" width="1000" height="1000"></iframe>
 
 Having grown up with racial discrimination, I strive to support other marginalized people as I empathize with their struggle, and that also entails my advocacy for my friends and peers from the LGBT community. Also acknowledging complaints my friends have made about pandering yet limited options in seemingly inclusive spaces and dating apps, I decided to create a website promoting matchmaking services for vampires. The subversion was a two-way street; the provocative connotations of bloodsucking creatures intended to disruptively contrast in juxtaposition with the clean-cut, romanticized presentation of commercial dating services. Simultaneously, the positive messages of love and acceptance throughout the site subverted common conceptions of fear and camp associated with vampires, paralleling the dissolution of harmful stereotypes surrounding marginalized sexualities. The site features web components that invite participation and interaction through a survey, a contact form, and a working number for audiences to immerse themselves further into the narrative. Ideally, page visitors can gain a better understanding of the LGBT community along with their struggles and experiences in the form of allegory mediated through digital technologies.
+
+
 
 # [TRIAD](https://v6p9d9t4.ssl.hwcdn.net/html/7740698/index.html)
 
@@ -45,9 +59,7 @@ Originally intended as an alien space shooter, the game began to take on a more 
 
 Seeking a way to gamify generative text, I integrated ChatGPT into a text generation program (see [documentation](https://github.com/dayman117242/generation-server)), using green font and a black background to emulate classic text adventure games. You can make subsequent text responses appear consecutively below previous ones to experience a fun (and somewhat chaotic) sensation of game progression. You can also finish the text's sentences if they cut off to conceive entire new scenarios depending on how adventurous you are feeling. Despite the potentially humorous results of this generative work, it simultaneously betrays the shortcomings of AI with occasionally repetitive and unimaginative results. I hope such flaws allow the work to be reflexive enough to critique on itself and show users that they should not rely on such programs too dependently as a first resort.
 
-# [Deus Ex Machina](https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/14-AwC-7UTiw07oEla98fXL67mS1XaCU1/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 
 In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
 
@@ -59,4 +71,4 @@ With the integration of AI in the project’s visual generation component, my vi
 
 The relationship between the two parallels Dr. Victor Frankenstein and his creation, albeit in a more ambivalent, civil, yet still unnerving sense. I’s potential to overpower his creator also intentionally evokes Lucifer, and his sheer sophistication brings to question who truly embodies God in this scenario. I’s characterization drew inspiration from HAL 9000 in 2001: A Space Odyssey and the impeccable Michael Fassbender’s deliciously menacing turn as the esoteric android David in the Alien prequels. Neo’s confrontation with The Architect at the TV room in The Matrix Reloaded also influenced I’s depiction as a giant screen along with the philosophically dense conversation he and his maker share.
 
-Through this dizzying but eclectic mix of sci-fi pastiches and ideas, my project became uniquely reflexive, employing AI as a medium to narratively explore the heavy long-term implications of the technology on our future society. I’m very grateful for the distinct opportunity to finally realize long-gestating concepts from my imagination while also paying homage to beloved sci-fi works that have fueled my creativity throughout the years. -->
+Through this dizzying but eclectic mix of sci-fi pastiches and ideas, my project became uniquely reflexive, employing AI as a medium to narratively explore the heavy long-term implications of the technology on our future society. I’m very grateful for the distinct opportunity to finally realize long-gestating concepts from my imagination while also paying homage to beloved sci-fi works that have fueled my creativity throughout the years.
