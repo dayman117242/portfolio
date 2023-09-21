@@ -18,57 +18,30 @@ The project is intended as a continuation and another narrative component of my 
 
 ![Cerebrus concept art](./Cerebrus.jpeg)
 
+I have drawn out some concept art for my player character and his potential forms in his evolution as he gains power over the course of the narrative. 
+
 ![Bitsy render](./Concept.png)
+
+I also made a visualization through Bitsy of the game's potential starting point, a research lab where Cerebrus will awaken and break free from captivity. 
 
 # [GB Studio](https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/view)
 
 <iframe src="https://drive.google.com/file/d/1ZMuxbRlH6gTmaL4mSbie3MBdfMNNQezg/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 
-# [bitr](https://bit-r.weebly.com/)
+I have begun experimenting with GB Studio and recorded a quick test run of the software's tutorial project. The playthrough has given me ideas on how to consolidate the aesthetics of my creative vision with the game's mechanics.
 
-<iframe src="https://bit-r.weebly.com/" width="1000" height="1000"></iframe>
+# Exhibition Setup
 
-Having grown up with racial discrimination, I strive to support other marginalized people as I empathize with their struggle, and that also entails my advocacy for my friends and peers from the LGBT community. Also acknowledging complaints my friends have made about pandering yet limited options in seemingly inclusive spaces and dating apps, I decided to create a website promoting matchmaking services for vampires. The subversion was a two-way street; the provocative connotations of bloodsucking creatures intended to disruptively contrast in juxtaposition with the clean-cut, romanticized presentation of commercial dating services. Simultaneously, the positive messages of love and acceptance throughout the site subverted common conceptions of fear and camp associated with vampires, paralleling the dissolution of harmful stereotypes surrounding marginalized sexualities. The site features web components that invite participation and interaction through a survey, a contact form, and a working number for audiences to immerse themselves further into the narrative. Ideally, page visitors can gain a better understanding of the LGBT community along with their struggles and experiences in the form of allegory mediated through digital technologies.
+![Steam Deck with screen](./Steam%20Deck%20(Screen).jpg)
 
+![Steam Deck](./Steam%20Deck.jpg)
 
+Preparation has also begun for the physical exhibition that will showcase my project. I ultimately plan on connecting a Game Boy ROM cartridge to modern hardware like the Steam Deck through the GB Operator cartridge reader accessory, so that the game can also be played on a big screen for a unique perspective on experienceing the Game Boy. I have run into some obstacles, however, as the Docking Station I use to mount my Steam Deck can be fickle when connecting to HDMI. Also, while the Deck itself can read the Operator when connected directly to the accessory, it will not read the device while docked, potentially undermining the big screen experience I intend to realize. I am looking into solutions such as alternate docks or intermediary hubs that will address this issue.
 
-# [TRIAD](https://v6p9d9t4.ssl.hwcdn.net/html/7740698/index.html)
+![MacBook with screen](./MacBook%20(Screen).jpg)
 
-<iframe allowfullscreen frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/7740698/index.html" width="1000" height="1000"><a href="https://dayman117242.itch.io/triad">Play TRIAD on itch.io</a></iframe>
+![MacBook](./MacBook.jpg)
 
-Fascinated with the popular business model of cinematic universes and other shared story-worlds, I envisioned my own rendition of DC’s iconic Trinity (Superman, Batman, and Wonder Woman). In this Twine interactive fiction, I reimagined the former as an escaped alien test subject on the run from an ominous military-industrial complex after waking up in a retrofuturistic counterpart to New York. While this creative work acts as both a spiritual successor to my favorite retro media and a conceptual course correction for more flawed ones that I would like to improve, I do understand that certain social values implicitly expressed in popular culture from those eras may not have aged well.  With this undertaking I hope to marry old and new together by dynamically preserving and pastiching iconic aesthetics while updating narrative content with more topical and socially conscious themes, just as comic book creators have done for decades reintroducing beloved characters to newer generations in periodic reboots.
+Meanwhile, the Operator had no issue when connected to personal computers as long as they had the device's corresponding emulation software installed.
 
-# [GUNS OF LIBERTY: The Hunt for El Cazador](https://itch.io/embed-upload/7735358?color=2e5955)
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/7735358?color=2e5955" allowfullscreen="" width="1000" height="1000"><a href="https://dayman117242.itch.io/guns-of-liberty-the-hunt-for-el-cazador">Play GUNS OF LIBERTY: The Hunt for El Cazador on itch.io</a></iframe>
-
-A minimalist pixelated adventure game/interactive fiction. The monochromatic green palette evokes the military and jungle setting characteristic of its eighties action movie inspirations while also emulating the contemporaneous Game Boy’s graphics, viscerally capturing the retro verisimilitude of a much explored era. Drawing inspiration from the iconic Arnold Schwarzenegger flick Predator, the game allows players to find mission logs in the form of interactive objects, encouraging exploration throughout the environment as a tribute to the classic adventure genre.
-
-
-
-# [X-MasTerrestrials](./sketch3/)
-
-<iframe src="./sketch3/" width="1000" height="1000"></iframe>
-(Wallpapers.com)
-
-Originally intended as an alien space shooter, the game began to take on a more festive theme of protecting castaway gifts scattered around Planet CupCage by shooting down the titular X-MasTerrestrials, evil aliens seeking to steal Christmas. The game uses basic mouse-click mechanics to simulate shooting and hitting UFOs. Simply point and click on the invaders and the occasional mothership to win points and save Christmas. The game is a survival shooter, meaning you will have to brave waves of thieving aliens for a certain duration of time before progressing to the next level. Each level will get increasingly challenging as the aliens get faster and more motherships come in to swipe a wider array of presents. Lose too many presents and the game is over, Christmas is canceled, so be on your toes with this one and keep your trigger finger ready. If you want to play again just reload the page. Have fun!
-
-# [Words & Sorcery](https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/1R5jstUX0N54Dcc08LlAWC6vgsPh_Yx0d/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
-
-Seeking a way to gamify generative text, I integrated ChatGPT into a text generation program (see [documentation](https://github.com/dayman117242/generation-server)), using green font and a black background to emulate classic text adventure games. You can make subsequent text responses appear consecutively below previous ones to experience a fun (and somewhat chaotic) sensation of game progression. You can also finish the text's sentences if they cut off to conceive entire new scenarios depending on how adventurous you are feeling. Despite the potentially humorous results of this generative work, it simultaneously betrays the shortcomings of AI with occasionally repetitive and unimaginative results. I hope such flaws allow the work to be reflexive enough to critique on itself and show users that they should not rely on such programs too dependently as a first resort.
-
-
-
-In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
-
-Mixing various AI techniques (Dream Studio, Kaiber, and Arbitrary Style Transfer; see [documentation](https://github.com/dayman117242/visualGeneration)) with rotoscoping software EbSynth, the visually generated work intends to comment on itself regarding the rapidly advancing technologies of AI and their ramifications in human civilization.
-
-I decided to draw from my academic background in religious studies and philosophy during my undergrad years. One fascinating course called Future of Religion explored the impact of technology on society in religious contexts, and I found this animation the perfect opportunity to delve further into those overlapping themes of artificial intelligence, sentience, and transhumanism.
-
-With the integration of AI in the project’s visual generation component, my vision took on elements of science fiction as I imagined a futuristic setting that merged technocracy and theocracy, taking the concepts from my Future of Religion class to an ideological extreme for dramatic effect. Emulating the wonderfully challenging musings of thought-provoking sci-fi like Ex Machina and the Blade Runner movies, I decided to blur the distinction between humanity, God, and the Devil by consolidating them into two characters: Father and I (can be pronounced as either “eye” or “one”, all up to the viewer).
-
-The relationship between the two parallels Dr. Victor Frankenstein and his creation, albeit in a more ambivalent, civil, yet still unnerving sense. I’s potential to overpower his creator also intentionally evokes Lucifer, and his sheer sophistication brings to question who truly embodies God in this scenario. I’s characterization drew inspiration from HAL 9000 in 2001: A Space Odyssey and the impeccable Michael Fassbender’s deliciously menacing turn as the esoteric android David in the Alien prequels. Neo’s confrontation with The Architect at the TV room in The Matrix Reloaded also influenced I’s depiction as a giant screen along with the philosophically dense conversation he and his maker share.
-
-Through this dizzying but eclectic mix of sci-fi pastiches and ideas, my project became uniquely reflexive, employing AI as a medium to narratively explore the heavy long-term implications of the technology on our future society. I’m very grateful for the distinct opportunity to finally realize long-gestating concepts from my imagination while also paying homage to beloved sci-fi works that have fueled my creativity throughout the years.
+I look forward to observing how my project will evolve as it continues to grow, develop, and change in response to a wide array of dynamic creative factors.
