@@ -46,6 +46,9 @@ I look forward to observing how my project will evolve as it continues to grow, 
 
 # Concept Art II
 
+![Reference images](./CEREBRUS.jpg)
+I drew inspiration for the design of Cerebrus' different evolutionary stages from various media including comic books, anime, and Saturday morning cartoons.
+
 ![Cerebrus concept art - completed](./Concept%20Art%20-%20Initial%20Drawings.jpeg)
 I continued and completed the concept art for my player character and his potential stages of evolution.
 
