@@ -58,16 +58,39 @@ I then colored the drawings with a vibrant palette meant to evoke comic books an
 # GB Studio II
 
 ![Logo](./Logo.png) ![Logo - pixelated](./logo(1).png) ![Title Screen](./Title%20Screen.png) ![Title Screen - pixelated](./titlescreen(2).png)
+I designed my logo and title screen through Google Slides and Canva, respectively, then pixelated them through a [free online tool](https://pinetools.com/pixelate-effect-image).
 
 ![GB Studio](./GB%20Studio.png)
 ![GB Studio - modified](./GB%20Studio%20(modified).png)
+I then uploaded the new designs to replace the placeholder templates in GB Studio.
+
+<iframe src="https://drive.google.com/file/d/16F1ermbB17oJL1l7h6TDw7gpTXaO_iL7/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+I also replaced and added in-game dialogue so that it would fit the context of my project's narrative.
 
 <iframe src="https://drive.google.com/file/d/1juAJIxDVHqTmCGeM_K-rewgepeYg-iaj/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+Finishing touches to my current build also included applying a green filter to all of the scenes to match the original Game Boy's aesthetics.
 
 # Exhibition Setup II
 
 ![Reddit](./Reddit.png)
 ![Reddit - cont'd](./Reddit%20(cont'd).png)
+I found a potential solution to the connection problem between the GB Operator and the Docking Station. One particular Reddit thread featured two users who discussed finding [a USB hub](https://www.amazon.com/gp/product/B01BED52VI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) that acted as a missing link between the two.
 
 ![Amazon](./Amazon.png)
+Upon finding the device online, I ordered through Amazon.
 
+![GB Operator - MacBook](./GB%20Operator%20(MacBook).png)
+When the package arrived, I went right away to testing the device with my personal computer. It worked!
+
+![GB Operator - Steam Deck Front](./GB%20Operator%20(Steam%20Deck)%20-%20Setup.png)
+![GB Operator - Steam Deck Back](./GB%20Operator%20(Steam%20Deck)%20-%20Setup%20(Back).jpg)
+With bated breath, I then moved on to the Steam Deck, connecting the GB Operator to the USB hub, which in turn plugged into the Docking Station. Here goes nothing...
+
+![GB Operator - Steam Deck](./GB%20Operator%20(Steam%20Deck).png)
+![GB Operator - Steam Deck Title](./GB%20Operator%20(Steam%20Deck)%20-%20Title%20Screen.png)
+![GB Operator - Steam Deck Gameplay](./GB%20Operator%20(Steam%20Deck)%20-%20Gameplay.png)
+Success! I was ecstatic about this huge step forward in my exhibition design, and now I only needed the worry about the actual game itself.
+
+---
+
+Until next time, stay tuned for further updates!
