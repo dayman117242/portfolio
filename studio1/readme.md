@@ -58,6 +58,7 @@ I then colored the drawings with a vibrant palette meant to evoke comic books an
 # GB Studio II
 
 ![Logo](./Logo.png) ![Logo - pixelated](./logo(1).png) ![Title Screen](./Title%20Screen.png) ![Title Screen - pixelated](./titlescreen(2).png)
+
 I designed my logo and title screen through Google Slides and Canva, respectively, then pixelated them through a [free online tool](https://pinetools.com/pixelate-effect-image).
 
 ![GB Studio](./GB%20Studio.png)
