@@ -42,6 +42,8 @@ Meanwhile, the Operator had no issue when connected to personal computers as lon
 
 I look forward to observing how my project will evolve as it continues to grow, develop, and change in response to a wide array of dynamic creative factors.
 
+---
+
 # Concept Art II
 
 ![Cerebrus concept art - completed](./Concept%20Art%20-%20Initial%20Drawings.jpeg)
@@ -52,3 +54,20 @@ After completing the preliminary sketches, I inked them to reinforce the image.
 
 ![Cerebrus concept art - colored](./Concept%20Art%20-%20Color.jpeg)
 I then colored the drawings with a vibrant palette meant to evoke comic books and retro games.
+
+# GB Studio II
+
+![Logo](./Logo.png) ![Logo - pixelated](./logo(1).png) ![Title Screen](./Title%20Screen.png) ![Title Screen - pixelated](./titlescreen(2).png)
+
+![GB Studio](./GB%20Studio.png)
+![GB Studio - modified](./GB%20Studio%20(modified).png)
+
+<iframe src="https://drive.google.com/file/d/1juAJIxDVHqTmCGeM_K-rewgepeYg-iaj/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+
+# Exhibition Setup II
+
+![Reddit](./Reddit.png)
+![Reddit - cont'd](./Reddit%20(cont'd).png)
+
+![Amazon](./Amazon.png)
+
