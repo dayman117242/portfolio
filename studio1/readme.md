@@ -103,11 +103,36 @@ Until next time, stay tuned for further updates!
 
 # GB Studio III - Sprites
 
-![Logo](./Logo.png) ![Logo - pixelated](./logo(1).png) ![Title Screen](./Title%20Screen.png) ![Title Screen - pixelated](./titlescreen(2).png)
+![Cerebrus - 1st Form](./Concept%20Art%20-%201st%20Form.jpeg)
+For my spritework, I decided to settle for the first form of my character from the concept art in the initial stages of the game.
+
+![Platform Spritesheet](./Piskel.png) ![Platform Spritesheet - edited](./Piskel(1).jpg) ![Top Down Spritesheet](./Piskel(2).jpg) ![Top Down Spritesheet - edited](./Piskel(3).jpg)
+Deriving from this design, I finally got around to making the spritesheets for my player character. To maintain consistent movement and animation, I drew frames over placeholder template sprites provided by GB Studio.
+
+<iframe src="https://https://drive.google.com/file/d/1L5Stjj7a5Zb77e37IeHPk2uOGkZMe17Q/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+Afterwards, I successfully implemented the new player character design into the game across the different areas.
 
 # GB Studio III - Music
 
-![Intro Music](./Music.jpg) ![Intro Music - Edited](./Music(1).jpg) ![Stage Music](./Music(2).jpg) ![Stage Music - Edited](./Music(3).jpg)
+![Intro Music](./Music.jpg) ![Intro Music - Edited](./Music(1).jpg)
+I was relieved to find that GB Studio came with its own music editor in the form of a piano roll, as I initially worried about producing through an external digital audio workstation and properly importing into the game. I went to work right away reworking the preexisting tracks in the template project, starting with the title screen. I made the track more minimalistic with a foreboding, sinister undertone to match my character's villainous nature.
+
+![Stage Music](./Music(2).jpg) ![Stage Music - Edited](./Music(3).jpg)
+In keeping with the darker supervillain theme, I also reworked the overarching world's music to subtly create a sense of discomfort with lower and more discordant tones.
 
 # Exhibition Setup III
 
+<iframe src="https://drive.google.com/file/d/1tKLs3a_Fz0EaXsyf27-nmUtwUAUoWpqQ/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+I exported a playable ROM of the game's demo to check its compatibility with mGBA, the core emulator program of the GB Operator. Thankfully, the homebrew ran successfully for the most part, even though there were slight bugs here and there in regards to certain renderings and collisions.
+
+![Reddit](./Reddit(1).jpg) ![Reddit - cont'd](./Reddit(2).jpg)
+Now onto one of the most crucial parts of the project: the actual physical medium through which I would present my work. I went online exploring forums dedicated to Game Boy homebrew and emulation. I found that several users had trouble finding flashcarts compatible with the GB Operator, although a general consensus seemed to lean towards Geek Tech's brand.
+
+![Geek Tech](./Geek%20Tech.jpg)
+I plan on ordering these flashcarts while consulting my advisors to ensure the proper materials and procedures for uploading the ROM to a playable physical cartridge.
+
+---
+
+As always, to be continued...
+
+---
