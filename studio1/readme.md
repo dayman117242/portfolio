@@ -107,9 +107,9 @@ Until next time, stay tuned for further updates!
 For my spritework, I decided to settle for the first form of my character from the concept art in the initial stages of the game.
 
 ![Platform Spritesheet](./Piskel.png) ![Platform Spritesheet - edited](./Piskel(1).jpg) ![Top Down Spritesheet](./Piskel(2).jpg) ![Top Down Spritesheet - edited](./Piskel(3).jpg)
-Deriving from this design, I finally got around to making the spritesheets for my player character. To maintain consistent movement and animation, I drew frames over placeholder template sprites provided by GB Studio.
+Deriving from this design, I finally got around to making the spritesheets for my player character through the free online sprite editor [Piskel](https://www.piskelapp.com/p/create/sprite). To maintain consistent movement and animation, I drew frames over placeholder template sprites provided by GB Studio.
 
-<iframe src="https://https://drive.google.com/file/d/1L5Stjj7a5Zb77e37IeHPk2uOGkZMe17Q/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
+<iframe src="https://drive.google.com/file/d/1L5Stjj7a5Zb77e37IeHPk2uOGkZMe17Q/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
 Afterwards, I successfully implemented the new player character design into the game across the different areas.
 
 # GB Studio III - Music
