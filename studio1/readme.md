@@ -98,3 +98,16 @@ Success! I was ecstatic about this huge step forward in my exhibition design, an
 ---
 
 Until next time, stay tuned for further updates!
+
+---
+
+# GB Studio III - Sprites
+
+![Logo](./Logo.png) ![Logo - pixelated](./logo(1).png) ![Title Screen](./Title%20Screen.png) ![Title Screen - pixelated](./titlescreen(2).png)
+
+# GB Studio III - Music
+
+![Intro Music](./Music.jpg) ![Intro Music - Edited](./Music(1).jpg) ![Stage Music](./Music(2).jpg) ![Stage Music - Edited](./Music(3).jpg)
+
+# Exhibition Setup III
+
