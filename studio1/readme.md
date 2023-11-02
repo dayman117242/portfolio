@@ -126,6 +126,7 @@ In keeping with the darker supervillain theme, I also reworked the overarching w
 I exported a playable ROM of the game's demo to check its compatibility with mGBA, the core emulator program of the GB Operator. Thankfully, the homebrew ran successfully for the most part, even though there were slight bugs here and there in regards to certain renderings and collisions.
 
 ![Reddit](./Reddit(1).jpg) ![Reddit - cont'd](./Reddit(2).jpg)
+
 Now onto one of the most crucial parts of the project: the actual physical medium through which I would present my work. I went online exploring forums dedicated to Game Boy homebrew and emulation. I found that several users had trouble finding flashcarts compatible with the GB Operator, although a general consensus seemed to lean towards Geek Tech's brand.
 
 ![Geek Tech](./Geek%20Tech.jpg)
