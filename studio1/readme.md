@@ -127,7 +127,7 @@ I exported a playable ROM of the game's demo to check its compatibility with mGB
 
 ![Reddit](./Reddit(1).jpg) ![Reddit - cont'd](./Reddit(2).jpg)
 
-Now onto one of the most crucial parts of the project: the actual physical medium through which I would present my work. I went online exploring forums dedicated to Game Boy homebrew and emulation. I found that several users had trouble finding flashcarts compatible with the GB Operator, although a general consensus seemed to lean towards Geek Tech's brand.
+Now onto one of the most crucial parts of the project: the actual physical medium through which I would present my work. I went online exploring forums dedicated to Game Boy homebrew and emulation. I found that several users had trouble finding flashcarts compatible with the GB Operator, although a general consensus seemed to lean towards [Geek Tech's brand](https://geekte.ch/collections/parts-and-mods).
 
 ![Geek Tech](./Geek%20Tech.jpg)
 I plan on ordering these flashcarts while consulting my advisors to ensure the proper materials and procedures for uploading the ROM to a playable physical cartridge.
