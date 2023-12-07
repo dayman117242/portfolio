@@ -180,7 +180,18 @@ I then moved onto Nintendo peripherals, which introduced some interesting challe
 I had difficulty mapping the Game Boy controls, as the Pro Controller's inputs wouldn't register into the game properly. However, I worked around this by mapping key bindings emulating the Game Boy buttons while also implementing mouse controls.
 
 ![Wii U Gameplay](./WiiU%20Gameplay.jpeg)
-The DualShock's ergonomic design afforded faster button movements and inputs compared to the relatively stiff controls on the original hardware, enhancing the experience.
+The Pro Controller admittedly felt a bit clunkier compared to the DualShock, but otherwise the controls felt responsive.
+
+![Nintendo Wii](./Wii%20Buttons.jpeg)
+To shake things up a little, I decided to connect a Wii Remote with Bluetooth, trying to see if I could use the horizontal orientation to play like an NES controller or a Game Boy control scheme. Weirdly enough, the A and B buttons on the Remote are also automatically switched, so I had to select the Nintendo layout to switch it back.
+
+![Wii](./Wii%20Setup.jpeg)
+Like its successor, the Wii controller also proved uncooperative when initially mapped with Game Boy controls. Worse, the family-friendly control scheme also meant a limited number of controls, completely removing the joystick and bumper essential for navigating the Playback software like a mouse. Even with accessories featuring joysticks, like the Nunchuck and Classic Controller,  plugged in the Remote wouldn't recognize the peripherals while connected to the Steam Deck. Eventually, I settled for the same key bindings as the Pro Controller while using the Deck's native controls to navigate the Playback software.
+
+![Wii Gameplay](./Wii%20Gameplay.jpeg)
+Stiffness of the +Control Pad aside, the light form factor allows a comfortable playstyle that evokes the NES controller, enhancing the engagement with past retro technologies.
+
+These controller options only represent a tiny fraction of the many possibilities for one to interact with Game Boy games today. Potential creative avenues for future consideration include motion controls and unconventional objects (guitar, DJ controller, plant, etc.).
 
 # Exhibition Setup IV - Web
 
