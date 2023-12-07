@@ -145,8 +145,11 @@ As always, to be continued...
 # Exhibition Setup IV - Web
 
 ![Folder](./Folder.png)
+
 In case of technical issues I exported a web version of my prototype as a backup.
 
 <iframe src="https://drive.google.com/file/d/1O48RjxINBv9SZcq2pT90NF3DmqY-bZz8/preview" width="1000" height="562.5" allow="fullscreen"></iframe>
-I compressed the web folder as a ZIP file then uploaded it to [Itch.io](https://itch.io/).
+I compressed the web folder as a ZIP file then uploaded it to [Itch.io](https://itch.io/) with the following settings in the video above, heavily leaning in on the retro Game Boy aesthetic.
 
+<iframe frameborder="0" src="https://itch.io/embed-upload/9254913?color=071821" allowfullscreen="" width="480" height="452"><a href="https://dayman117242.itch.io/cerebrus">Play CEREBRUS on itch.io</a></iframe>
+I have also embedded it here for those who want to play but do not own the original hardware, as I am a firm believer in making art and culture widely available to all. Have fun!
