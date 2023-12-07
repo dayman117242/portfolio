@@ -140,7 +140,47 @@ As always, to be continued...
 
 # Exhibition Setup IV - Cartridge
 
+![Repro Cart](./Repro%20Cart.jpeg)
+Once I completed a working build of my prototype, I exported the ROM as a GB file then went on the hunt for cartridges. My advisor suggested that instead of going online to look for expensive flashcarts I could go to my local retro games store and purchase a cheap rewritable reproduction cartridge from there. So I did exactly that.
+
+![Repro Info](./Repro%20Info.jpg) ![Repro Title](./Repro%20Title%20Screen.jpg)
+As we can see upon loading the repro cart onto the GB Operator, the reader doesn't recognize the game as an official product, which is good for us since we want to replace the existing software with the one we just made.
+
+![Homebrew](./Homebrew.jpg)
+In the "Data" tab of Epilogue's Playback software we select the "Upload Homebrew" option then click "Start".
+
+![Homebrew Select](./Homebrew%20Select.jpg)
+Then we select the GB file of the game we want to upload. Let's find out if this thing works.
+
+![Cart Setup](./Cart%20Setup.jpeg)
+Success! Let's see if this works with the original hardware.
+
+![Pocket Title](./Pocket%20Title.jpeg)![Pocket Gameplay](./Pocket%20Gameplay.jpeg)
+Wow! Even in black and white it looks great! But does it work with the newer Game Boys' backward compatibility?
+
+![GBA Title](./GBA%20Title.jpeg)![GBA Gameplay](./GBA%20Gameplay.jpeg)
+It does! I'm hoping to include these options as well in my exhibition to demonstrate the dynamic ways creators can mediate fresh new experiences through original hardware.
+
+Now onto the home console experience.
+
 # Exhibition Setup IV - Controllers
+
+To continue my critical making approach of merging old and new technologies, I wanted to see if I could get more modern controllers to work with the archaically styled software, affording a different style of play for varying demographics.
+
+![PS3](./PS3%20Setup.jpeg)
+I started with a standard gamepad, more specifically the DualShock 3 for the PlayStation 3. Through Bluetooth I connected it to the Steam Deck running my Game Boy cartridge then mapped the buttons accordingly to the appropriate Game Boy controls, also including mouse controls with the right joystick and right bumper to navigate the Playback software emulating the game.
+
+![PS3 Gameplay](./PS3%20Gameplay.jpeg)
+The DualShock's ergonomic design afforded faster button movements and inputs compared to the relatively stiff controls on the original hardware, enhancing the experience.
+
+![Nintendo Wii U](./Wii%20Buttons.jpeg)
+I then moved onto Nintendo peripherals, which introduced some interesting challenges. The WiiU Pro Controller connected through Bluetooth without much issue, but I had to select the Nintendo layout in controller settings as the arrangement of AB/XY buttons is switched on Nintendo controllers compared to typical gamepads.
+
+![Wii U](./WiiU%20Setup.jpeg)
+I had difficulty mapping the Game Boy controls, as the Pro Controller's inputs wouldn't register into the game properly. However, I worked around this by mapping key bindings emulating the Game Boy buttons while also implementing mouse controls.
+
+![Wii U Gameplay](./WiiU%20Gameplay.jpeg)
+The DualShock's ergonomic design afforded faster button movements and inputs compared to the relatively stiff controls on the original hardware, enhancing the experience.
 
 # Exhibition Setup IV - Web
 
