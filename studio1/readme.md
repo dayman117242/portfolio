@@ -164,6 +164,7 @@ Wow! Even in black and white it looks great! But does it work with the newer Gam
 
 ![GBA Title](./GBA%20Title.jpeg)
 ![GBA Gameplay](./GBA%20Gameplay.jpeg)
+
 It does! I'm hoping to include these options as well in my exhibition to demonstrate the dynamic ways creators can mediate fresh new experiences through original hardware.
 
 Now onto the home console experience.
